@@ -9,7 +9,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
+//verificar porque não deu certo sem os setters
 @Getter
 @Setter
 @AllArgsConstructor
